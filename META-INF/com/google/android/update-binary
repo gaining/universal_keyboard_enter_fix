@@ -1,0 +1,5 @@
+#!/sbin/sh
+umask 022
+[ -f /data/adb/magisk/util_functions.sh ] || { echo "Magisk util_functions.sh not found"; exit 1; }
+. /data/adb/magisk/util_functions.sh
+install_module
