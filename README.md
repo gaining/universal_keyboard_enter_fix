@@ -34,10 +34,9 @@ Because the change is made to key code 28, it may also change the behavior of **
 
 ## Installation
 
-1. Disable or remove the previous **"USB Keyboard Enter Fix"** module in Magisk, if installed.
-2. Download the module ZIP.
-3. In Magisk, go to **Modules → Install from storage** and select the ZIP.
-4. Reboot.
+1. Download the module ZIP.
+2. In Magisk, go to **Modules → Install from storage** and select the ZIP.
+3. Reboot.
 
 ## Uninstallation
 
