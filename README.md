@@ -1,6 +1,6 @@
 # Universal Keyboard Enter Fix
 
-A Magisk module for Android set-top boxes and Android TVs that makes the **Enter** key on keyboards work properly. It also works on other Android devices.
+A Magisk module for Android set-top boxes and Android TVs that makes the **Enter** key on keyboards and physical remotes work properly. It also works on other Android devices.
 
 ## What it does
 
